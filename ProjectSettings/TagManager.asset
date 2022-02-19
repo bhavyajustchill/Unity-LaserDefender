@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Friendlies
+  - Enemies
+  - EnemyProjectiles
+  - FriendlyProjectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyProjectiles
+    uniqueID: 792239155
+    locked: 0
+  - name: Enemies
+    uniqueID: 1430647961
+    locked: 0
+  - name: FriendlyProjectiles
+    uniqueID: 2222963723
+    locked: 0
+  - name: Friendlies
+    uniqueID: 2320588899
+    locked: 0
+  - name: Explosions
+    uniqueID: 865765969
+    locked: 0
