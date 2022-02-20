@@ -11,4 +11,9 @@ This is my fifth Unity 2D game. It is essentially a clone of Space Invaders game
 - The more you shoot, the more your score goes up!
 - Infinite Enemies, so see how much further you can go!
 
-## Screenshots Coming Soon...
+## Screenshots
+<p align="center">
+  <img src="screenshots/1.png" /><br><br>
+  <img src="screenshots/2.png" /><br><br>
+  <img src="screenshots/3.png" />
+</p>
